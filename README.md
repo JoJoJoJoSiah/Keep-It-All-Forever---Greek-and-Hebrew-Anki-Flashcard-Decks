@@ -12,6 +12,6 @@ Many more grammar packs are in the works. Each time an update is completed, the 
 
 **The best way to download it all is to click on the folder called "Zip File Containing All Flashcard Packs," then click the title of the zip file, and finally, click the download button.**
 
-# Example of Flashcards
+### Example of one of the flashcards:
 
 ![Example Image](Example_of_Vocab_Flashcard.webp)
