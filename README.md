@@ -12,12 +12,13 @@ These flashcard packs include the alphabet, vocab words, and grammar. Virtually 
 
 **The best way to download it all in one go is to click [here](Zip_File_Containing_All_Flashcard_Packs) to see the zip file containing everything, then click the title of the zip file, and finally, click the download button right next to the word "raw."**
 
-
 ### Example of one of the flashcards:
 
 ![Example Image](Example_of_Vocab_Flashcard.webp)
 
-# How to use
+# How to Use
+
+Feel free to get going by reading the instructions below or watching [this video tutorial](https://youtu.be/5Bxp3ht9HXM?si=0q0XiLRROK-76c9). However, if you watch the video to get yourself set up, just take note of the little notes at the bottom of this document with the asterisk.
 
 1. First, download the Anki app on your device. Find the appropriate download link for your computer or phone at the bottom of this webpage: https://apps.ankiweb.net/ (Note: The application on iPhone costs money, but you can use it in your phone browser for free if you upload the packs from a different device and just sync your decks online.)
 2. Download the files in the OneDrive folder for the Greek and Hebrew flashcards.
