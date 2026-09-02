@@ -6,7 +6,7 @@ Go ahead and read the "Start Here!.pdf" file to get going!
 
 Many more grammar packs are in the works. Each time an update is completed, the updated pack should show up here on this page. If anyone finds issues with the pack, please leave a comment below and I will fix it as soon as I can.
 
-# Downloading 
+# How to Download the Flashcards
 
 *To download them, simply click on each pack you'd like to have, and then click the download button.*
 
