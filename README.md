@@ -10,4 +10,6 @@ Many more grammar packs are in the works. Each time an update is completed, the 
 
 *To download them, simply click on each pack you'd like to have, and then click the download button.*
 
+**The best way to download it all is to click on the folder called "Zip File Containing All Flashcard Packs," then click the title of the zip file, and finally, click the download button.**
+
 
