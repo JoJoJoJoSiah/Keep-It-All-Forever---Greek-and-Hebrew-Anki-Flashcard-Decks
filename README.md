@@ -14,4 +14,4 @@ Many more grammar packs are in the works. Each time an update is completed, the 
 
 # Example of Flashcards
 
-![Example Image]("Example of Vocab Flashcard.webp")
+![Example Image](Example of Vocab Flashcard.webp)
