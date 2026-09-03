@@ -2,7 +2,7 @@
 
 Ready to make your memory of Greek and Hebrew a choice instead of leaving it up to chance? These flashcards, when done every day, will keep your load light and easy (without overwhelm) so that you can learn and retain your knowledge of God's word for the rest of your life. You'll get to "keep it all forever"!
 
-These flashcard packs include the alphabet, vocab words, and grammar. Virtually every one of the vocab words in the Greek and Hebrew packs has an image and mnemonic device along with it to greatly aid in your memory.
+These flashcard packs include the alphabet, vocab words, and grammar for Greek and Hebrew. Virtually every one of the vocab words in the Greek and Hebrew packs has an image and mnemonic device along with it to greatly aid in your memory.
 
 **To start using the flashcards, see the "How to Use" section below.**
 
