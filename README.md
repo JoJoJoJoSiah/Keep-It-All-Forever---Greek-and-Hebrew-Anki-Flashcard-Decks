@@ -8,9 +8,9 @@ These flashcard packs include the alphabet, vocab words, and grammar for Greek a
 
 # How to Download the Flashcards
 
-*To download them, simply click on each pack you'd like to have, and then click the download button.*
+*To download the flashcards, simply click on each pack you'd like to have in the section above, click on it's title once more, and then click the download button.*
 
-**The best way to download it all in one go is to click [here](Zip_File_Containing_All_Flashcard_Packs) to see the zip file containing everything, then click the title of the zip file, and finally, click the download button right next to the word "raw."**
+**To download it all at once in a zip file, first click [here](Zip_File_Containing_All_Flashcard_Packs), then click the title of the zip file, and finally, click the download button right next to the word "raw."**
 
 ### Example of one of the flashcards:
 
