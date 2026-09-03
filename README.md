@@ -12,8 +12,6 @@ These flashcard packs include the alphabet, vocab words, and grammar for Greek a
 
 **To download it all at once in a zip file, first click [here](Zip_File_Containing_All_Flashcard_Packs), then click the title of the zip file, and finally, click the download button right next to the word "raw"** (Once again, if you're on mobile, you may have to click on the three dot menu to see the download button.).
 
-Or try [this link](sha256:b868cdf09ea05e78c3a32f5ca35b6480fabbfefce2f479c46b18591d7436a0ad).
-
 ### Example of one of the flashcards:
 
 ![Example Image](Example_of_Vocab_Flashcard.webp)
