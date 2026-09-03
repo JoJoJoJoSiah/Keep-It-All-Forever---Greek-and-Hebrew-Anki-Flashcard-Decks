@@ -2,7 +2,7 @@
 
 Ready to make your memory of Greek and Hebrew a choice instead of leaving it up to chance? These flashcards, when done every day, will keep your load light and easy (without overwhelm) so that you can learn and retain your knowledge of God's Word for the rest of your life. You'll get to "keep it all forever"!
 
-These flashcard packs include the alphabet, vocabulary words, and grammar for Greek and Hebrew. Virtually every one of the vocabulary words in the Greek and Hebrew packs has an image and mnemonic device along with it to greatly aid in your memory.
+These flashcard packs include the alphabet, vocabulary words, and grammar for Greek and Hebrew. Virtually every one of the vocabulary words in the Greek and Hebrew packs has an image and mnemonic device along with it to greatly aid in your memory. The 1,100 most common Biblical Greek and 641 most common Biblical Hebrew words are included. This amount of words gets you to around 95-98% of the New Testament, and 80%-90% of the Old Testament.
 
 **To start using the flashcards, see the "How to Use the Flashcards" section below.**
 
