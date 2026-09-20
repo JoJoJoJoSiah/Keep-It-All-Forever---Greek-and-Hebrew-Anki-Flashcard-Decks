@@ -14,7 +14,7 @@ To download all the flashcards at once in a zip file, do this:
 2. Then click on the **title of the zip file** one more time.
 3. Finally, click the **download button** on that page (If you are on mobile, you may have to click on the three-dot menu to see the download button.).
 
-Don't forget to extract the zip file before you try to import the flashcards into Anki! See the steps below [How to Use the Flashcards](#how-to-use-the-flashcards)
+Don't forget to extract the zip file before you try to import the flashcards into Anki! To see how to set it up, see the steps below in the section "[How to Use the Flashcards](#how-to-use-the-flashcards)."
 
 If you'd like to download any individual packs, you can click through the menus in the section above to do so. Simply click on any pack you'd like, click its title once again, and then click the download button.
 
