@@ -8,7 +8,11 @@ These flashcard packs include the alphabet, vocabulary words, and grammar for Gr
 
 # How to Download the Flashcards
 
-To download all the flashcards at once in a zip file, click [this link](Zip_File_Containing_All_Flashcard_Packs), then click on the title of the zip file one more time, and finally, click the download button on that page (If you are on mobile, you may have to click on the three-dot menu to see the download button.).
+To download all the flashcards at once in a zip file:
+
+1. Click [this link](Zip_File_Containing_All_Flashcard_Packs)
+2. Then click on the title of the zip file one more time.
+3. Finally, click the download button on that page (If you are on mobile, you may have to click on the three-dot menu to see the download button.).
 
 If you'd like to download any individual packs, you can click through the menus in the section above to do so. Simply click on any pack you'd like, click its title once again, and then click the download button.
 
