@@ -27,7 +27,7 @@ If you'd like to download any individual packs, you can click through the menus 
 Feel free to get going by reading the instructions below or watching [this video tutorial](https://youtu.be/hWa9hRyUkE8).
 
 1. First, download the Anki app on your device. Find the appropriate download link for your computer or phone at the bottom of this webpage: https://apps.ankiweb.net/ (Note: The application on iPhone costs money, but you can use it in your phone browser for free if you upload the packs from a different device and just sync your decks online.)
-2. Download the Greek and Hebrew flashcard packs you'd like to use. To see how to do this, see the above section "[How to Download the Flashcards](#-how-to-download-the-flashcards)."
+2. Download the Greek and Hebrew flashcard packs you'd like to use. To see how to do this, see the above section "[How to Download the Flashcards](#how-to-download-the-flashcards)."
 3. Open Anki and find the "import" button.
 4. In the little file explorer pop-up, find the decks and import each of them, just using the default settings.
 5. Click on the settings cog next to the top deck for Greek or Hebrew (or on mobile, hold down on the deck) and click "Deck options."
