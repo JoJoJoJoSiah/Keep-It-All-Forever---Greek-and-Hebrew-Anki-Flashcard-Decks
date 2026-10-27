@@ -10,9 +10,7 @@ These flashcard packs include the alphabet, vocabulary words, and grammar for Gr
 
 To download all the flashcards at once in a zip file, do this:
 
-1. Click **[this link](Zip_File_Containing_All_Flashcard_Packs)**.
-2. Then click on the **title of the zip file** one more time.
-3. Finally, click the **download button** on that page (If you are on mobile, you may have to click on the three-dot menu to see the download button.).
+1. Click **[this link]([Zip_File_Containing_All_Flashcard_Packs](https://github.com/JoJoJoJoSiah/Keep-It-All-Forever---Greek-and-Hebrew-Anki-Flashcard-Decks/releases/download/latest/All_Greek_and_Hebrew_Anki_Flashcard.Decks_.v2.8.zip))**.
 
 Don't forget to extract the zip file before you try to import the flashcards into Anki! To see how to set it up, see the steps below in the section "[How to Use the Flashcards](#how-to-use-the-flashcards)."
 
