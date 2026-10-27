@@ -8,11 +8,11 @@ These flashcard packs include the alphabet, vocabulary words, and grammar for Gr
 
 # How to Download the Flashcards
 
-To download all the flashcards at once in a zip file, click **[this link](https://github.com/JoJoJoJoSiah/Keep-It-All-Forever---Greek-and-Hebrew-Anki-Flashcard-Decks/releases/download/latest/All_Greek_and_Hebrew_Anki_Flashcard.Decks_.v2.8.zip)**.
+- To download all the flashcards at once in a zip file, click **[this link](https://github.com/JoJoJoJoSiah/Keep-It-All-Forever---Greek-and-Hebrew-Anki-Flashcard-Decks/releases/download/latest/All_Greek_and_Hebrew_Anki_Flashcard.Decks_.v2.8.zip)**.
 
-Don't forget to extract the zip file before you try to import the flashcards into Anki! To see how to set it up, see the steps below in the section "[How to Use the Flashcards](#how-to-use-the-flashcards)."
+  - Don't forget to extract the zip file before you try to import the flashcards into Anki! To see how to set it up, see the steps below in the section "[How to Use the Flashcards](#how-to-use-the-flashcards)."
 
-If you'd like to download any individual packs, you can click through the menus in the section above to do so. Simply click on any pack you'd like, click its title once again, and then click the download button.
+If you'd like to download any individual packs (such as only the Greek Vocab, or only the Hebrew Alphabet, etc.), you can click [here](https://github.com/JoJoJoJoSiah/Keep-It-All-Forever---Greek-and-Hebrew-Anki-Flashcard-Decks/releases/tag/latest) and download them by clicking on the files name.
 
 ### Example of one of the flashcards:
 
